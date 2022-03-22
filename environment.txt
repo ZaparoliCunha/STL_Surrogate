@@ -1,0 +1,27 @@
+name: py37
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - matplotlib
+  - scipy=1.7
+  - scikit-learn
+  - pydoe2
+  - cython
+  - numpy
+  - spyder
+  - cpuonly
+  - torchvision
+  - torchaudio
+  - pytorch
+  - plotly=5.3.1
+  - pandas
+  - python-kaleido
+  - xgboost
+  - git
+  - tensorflow
+  - keras
+  - rfpimp
+  - salib
+prefix: C:\Users\COMPREDICT\anaconda3\envs\py37
